@@ -1,43 +1,45 @@
-# Python Dados Luciano
+# 🚀 Python • Dados • IA
 
-Minha jornada de estudos em Python, Engenharia de Dados, Inteligência Artificial e Analytics.
+Bem-vindo ao meu laboratório de estudos.
 
-## Objetivo
+Aqui registro minha evolução em Python, Engenharia de Dados, Inteligência Artificial e Analytics, desenvolvendo projetos práticos aplicados ao mercado.
 
-Migrar minha carreira de Consultor ERP Protheus e Power BI para atuar como Consultor de Dados e IA.
+---
 
-## Tecnologias
+## 👨‍💻 Sobre mim
+
+Consultor ERP TOTVS Protheus e Power BI com mais de 25 anos de experiência em tecnologia.
+
+Atualmente em transição para atuar como Consultor de Dados e Inteligência Artificial.
+
+---
+
+## 🎯 Objetivo
+
+Construir um portfólio sólido em:
 
 - Python
-- SQL
+- Engenharia de Dados
 - Power BI
-- Pandas
+- SQL
 - APIs
-- Git
-- GitHub
 - Microsoft Fabric
-- Azure
 - Inteligência Artificial
+- Agentes de IA
 
-## Estrutura
+---
 
-/aulas
-/desafios
-/projetos
-/datasets
-/notebooks
-/docs
-/imagens
-
-## Roadmap
+## 📚 Roadmap
 
 - [ ] Python Básico
 - [ ] Python para Dados
 - [ ] SQL Avançado
 - [ ] Pandas
 - [ ] APIs
+- [ ] Git
 - [ ] Power BI + Python
 - [ ] Machine Learning
 - [ ] IA Generativa
 - [ ] Microsoft Fabric
-- [ ] Projeto Final
+
+---
