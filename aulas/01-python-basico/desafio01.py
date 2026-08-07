@@ -10,5 +10,20 @@ print("Escola de Dados da Alura!")
 print()  # Linha em branco
 
 # Questão 2
-print("Nome:", "Luciano")
-print("Sobrenome:", "Siqueira")
+print("Nome: [Luciano]")
+print("Sobrenome: [Siqueira]")
+
+# Questão 3
+print("L")
+print("U")
+print("C")
+print("I")
+print("A")
+print("N")
+print("O")
+
+# Questão 4
+print(30, 'Julho', 1978)
+
+# Questão 5
+print('Ano Atual: ', 2026)
